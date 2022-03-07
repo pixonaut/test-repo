@@ -1,4 +1,2 @@
 # test-repo
-Hello test read me world
-Hello test read me world
-Hello test read me world. No! Dinosaur Pizza! :(
+Hello Dinosaur-pizza world! Take me to your Pepperoni T-rex!
